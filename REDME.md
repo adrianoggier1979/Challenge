@@ -1,3 +1,3 @@
-<h1> Challenge encriptador de texto</h1>
-
--Estado del proyecto en construcción-
+Proyecto: Encriptador de texto
+Estado: Finalizado
+Funcionalidades: Encriptador y desencriptador de texto, copiador de portapapeles.
