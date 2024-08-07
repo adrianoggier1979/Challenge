@@ -348,6 +348,7 @@ Media Queries
         flex-direction: column;
         align-items: center;
         width: 100%;
+        margin-top: 40px;
     }
     
     }
@@ -444,6 +445,7 @@ Media Queries
         display: flex;
         flex-direction: column;
         margin-top: 55px;
+       padding-right: 20%;
        
         
     }
